@@ -1,0 +1,13 @@
+{
+  "name": "REO_Checklist",
+  "version": "0.0.1",
+  "description": "REO Checklist POC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7",
+    "mongodb": "~2.0",
+    "body-parser": "~1.0.1",
+    "gm": "^1.2.0",
+    "request": "^2.2.1"
+  }
+}
